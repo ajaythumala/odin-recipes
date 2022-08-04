@@ -1,10 +1,10 @@
 # odin-recipes
-### In this project I apply basic html with a little CSS, thus learning to:
+### In this project I apply basic HTML with a little CSS, thus learning to:
 1. create a main page and within it href links to other pages on a different directory.
 1. display text via headings, lists and paragraphs.
 1. display images.
 1. align elements.
-1. get a sense of the limitations of composition and arrangement of elements in html.
+1. get a sense of the limitations of composition and arrangement of elements with just html.
 
 ### This project also allowed me to:
 1. learn and understand version control and how to use git.
