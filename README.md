@@ -10,3 +10,6 @@
 1. learn and understand version control and how to use git.
 1. learn how to make atomic commits
 1. organize files appropriately
+
+### Looking back:
+1. I was not aware of block or external css and how cluttered a script can get when using inline CSS
